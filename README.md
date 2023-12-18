@@ -1,2 +1,2 @@
 # EcoNorte
-PAgina web para almacenar puntos de reciclaje 
+Pagina web para almacenar puntos de reciclaje 
